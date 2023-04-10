@@ -1,0 +1,23 @@
+{
+  "name": "express-weather-appv1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KodeGo-Bootcamp/express-weather-appv1.git"
+  },
+  "author": "Rbsl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KodeGo-Bootcamp/express-weather-appv1/issues"
+  },
+  "homepage": "https://github.com/KodeGo-Bootcamp/express-weather-appv1#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
